@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act for furnishing of baggage-horse to His Majesties host at Edinburgh, the seventeeth day of July, One Thousand Six Hundred and Eighty Nine Years.</title>
+            <author>Scotland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58676</idno>
+            <idno type="STC">Wing S1425</idno>
+            <idno type="STC">ESTC R6182</idno>
+            <idno type="EEBO-CITATION">13698527</idno>
+            <idno type="OCLC">ocm 13698527</idno>
+            <idno type="VID">101447</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58676)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101447)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 848:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act for furnishing of baggage-horse to His Majesties host at Edinburgh, the seventeeth day of July, One Thousand Six Hundred and Eighty Nine Years.</title>
+                  <author>Scotland.</author>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson, by order of His Majesties Privy Council,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Military law --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  Edinburgh (Lothian) --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:101447:1"/>
+            <!-- PDF PAGE 10 -->
+            <head>ACT For Furniſhing of Baggage-Horſe to His Majeſties Hoſt.</head>
+            <opener>
+               <dateline>AT <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> 
+                  <date>The Seventeenth Day of <hi>July,</hi> One thouſand ſix hundred and eighty nine Years.</date>
+               </dateline>
+            </opener>
+            <p>HIS Majeſties High Commiſſioner, and Lords of His Majeſties Privy Council, Conſidering that it is requiſite and ne<g ref="char:EOLhyphen"/>ceſſary a competent proviſion of Baggage be ſent alongſt with the Forces, under the Command of Major-General <hi>Mackay,</hi> who is now to march Northwards againſt the Viſcount of <hi>Dundee,</hi> and other Rebels that have joyned him in oppoſition to His Majeſties Authority, They do therefore Ordain the Leaders of the Militia-Horſes within the Shires of <hi>Fife, Kinroſs, Edinburgh, Linlithgow, Striviling</hi> and <hi>Clackmannan,</hi> to ſend out each of them two ſufficient Baggage-Horſes for each Militia-Horſe they lead, ſufficiently furniſhed and graithed with Sodds, an Sack, an pair of Backets or Creils, with a Man for each two Horſe, with ten days Proviſion to the ſaid Servant, half Meal, half Money, extending the ſaid Baggage-Horſe for the Shires of <hi>Fife</hi> and <hi>Kinroſs,</hi> the Towns not included, to the number of three hundred fifty two Horſe: For the Shire of <hi>Edinburgh,</hi> to the number of an hundred fourty eight; for the Shire of <hi>Linlithgow,</hi> to the number of eighty four; and for the Shires of <hi>Striviling</hi> and <hi>Clackmannan,</hi> the number of an hundred ſeventy ſix Horſe: And appoints the Magiſtrats of the ſeveral Burghs under-written to ſend out the pro<g ref="char:EOLhyphen"/>portion of Horſe and Men after-mentioned, <hi>viz.</hi> The Magiſtrats of the Town of <hi>Edinburgh,</hi> the number of an hundred Horſes, and fifty Men, or ſuch a number of Carts as Major-General <hi>Mackay</hi> ſhall appoint, in lieu of the foreſaids Horſes, or any number of the ſame; the Magiſtrats of <hi>St. Andrews,</hi> the number of twelve Horſes, and ſix Men; the Magiſtrats of <hi>Dyſert,</hi> ſix Horſes, and three Men; the Magiſtrats of <hi>Kirkaldie,</hi> twelve Horſes, and ſix Men; the Magiſtrats of <hi>Cowper,</hi> ſix Horſes, and three Men; the Magiſtrats of <hi>Burntiſland,</hi> ſix Horſes, and three Men; the Magiſtrats of <hi>Innerkeithing,</hi> three Horſes, and two Men, the Magiſtrats of <hi>Kinghorn,</hi> two Horſes, and one Man; the Magiſtrats of <hi>Pittenweem,</hi> three Horſes, and two Men; the Magiſtrats of <hi>Dumfermling,</hi> four Horſes, and two Men; the Magiſtrats of <hi>Anſtruther</hi>-Weſter, two Horſes, and a Man; the Magiſtrats of <hi>Crail,</hi> ſix Horſes, and three Men; and Magiſtrats of <hi>Kilrinni,</hi> one Horſe and one Man; and the Magiſtrats of <hi>Striviling,</hi> five Horſes, and three Men, all ſufficiently furniſhed with Graith, Furniture and Proviſion, in manner above-mentioned. And the ſaids Lords Ordains the number of an hundred and fourty eight Horſe, with a proportion of Men correſponding thereto, as part of the number of the Horſe and Men to be furniſhed and put out by the Shires of <hi>Fife</hi> and <hi>Kinroſs</hi> and Towns thereof, to repair and go to the Town of <hi>Burnt-iſland</hi> on <hi>Saturday</hi> next, the twenty day of <hi>July</hi> inſtant, by eight a clock in the morning, according as they ſhall receive direction from the Sheriff-deput of <hi>Fiſe,</hi> for that Effect, and appoints the remainder of the ſaids Horſes, and Men that are to be ſent out by the ſaids Shires of <hi>Fife,</hi> and <hi>Kinroſs,</hi> and Towns thereof, and by the other Shires and Burghs above-mentioned, to re<g ref="char:EOLhyphen"/>pair to the places, and upon the days particularly aftermentioned, <hi>viz.</hi> The Remainder of theſe furniſhed by the ſaids Shires of <hi>Fife,</hi> and <hi>Kinroſs,</hi> and and Towns thereof, to the Town of <hi>Perth,</hi> upon <hi>Tueſday</hi> next the twenty third day of the ſaid moneth, before three a clock in the afternoon; Theſe ſent out by the Shire of <hi>Striviling,</hi> and Town thereof, at <hi>Striveling</hi> upon <hi>Munday</hi> the twenty ſecond day, by eight a Clock in the Morning; Theſe by the Shire of <hi>Linlithgow</hi> and Town of <hi>Edinburgh,</hi> on <hi>Tueſday</hi> next, at the ſaid Town of <hi>Striviling,</hi> before eight a Clock in the morning; and theſe of the Shire of <hi>Edinburgh</hi> at the ſaid place on <hi>Wedneſday</hi> the twenty fourth day at the hour foreſaid. And for the more ready and better Outreik of the Horſes reſpectively abovementioned, The Lords of His Majeſties Privy Council, give and grant full power and warrant to each of the ſaids Leaders, to preſs Horſe or Horſes he is lyable to furniſh within any part of his Localitie, the Horſe not exceeding the value of fourty eight pound <hi>Scots;</hi> and appoints the ſaids Leaders, to draw up an Accompt of the value of the ſaids Horſe or Horſes, as they ſhall be prized by three honeſt Neighbours upon Oath, with their Graith, not exceeding fourty ſhilling <hi>Scots</hi> for the ſaid Graith if they ſhall not return, or if they do return of what they ſhall be prized worſe, and of ten days Proviſion for the Men which go-along with the ſaid Horſe, and according to the Extent of the Accompt; They ordain each Heretor within the Leaders Localitie, to be anſwerable for the Leaders relief, according to the preportion of his valued Rent; and if they make not ready payment thereof, the Comiſſioners of the Militia or any two of them upon application, are to grant Warrants for poynding for the ſaid proportion to be Appryſed according to the Poynds for Deficiency of the Militia, and the Heretors are allowed to take their Relief for their proportions by Pole off the Tennents and Inhabitants within the Bounds, the Cottars and Tradeſ-men being reckoned to a Third. And further, the ſaids Lords Grants Warrant to every Leader to preſs a Man to go along with every two Horſes, out of any part of his Locality, in caſe of refuſal, and appoints the Foot Militia to concur with the Leader to Guard the Men and Horſes to the reſpective places appointed for their Meeting; And Declares, That every Leader who ſhall be Deficient, ſhall be lyable on payment of the Sum of ſixty Pounds <hi>Scots</hi> for each Deficient Horſe, to be applyed for the relief of any other Horſe that ſhall be preſſed through his default; and further, ſhall be lyable to be puniſhed in his Perſon and Goods at the Councils pleaſure, as Diſaffected to the Government, and His Majeſties Service: And in like manner the ſaids Lords of Privy Council Allow, and Impower the Magiſtrats of the Burghs reſpectively above-named, to preſs the Horſes and Men to be ſent out by them within their own Juriſdiction, and to Stent the Burgeſſes and Inhabitants for a proportional Relief thereof, and of the Graith and Proviſions to be ſent along with them, the value of each Horſe not exceeding fourty eight Pounds <hi>Scots,</hi> and the Graith four<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y Shillings Money foreſaid, and the Eſtimat to be made, either for the full price of the Horſe and Graith, if he ſhall not return, or in ſo far as the Horſe ſhall be Pryſed worſe, than he was at his going out, if he do return. And Ordains theſe Pre<g ref="char:EOLhyphen"/>ſents to be Printed, and Publiſhed by the Sheriffs, their Deputs or Clerks, at the Head-Burghs of their Shires, at the receipt thereof, and at the Pa<g ref="char:EOLhyphen"/>roch Churches within their reſpective Shires, upon <hi>Sunday</hi> next after Divine Service in the Forenoon; and by the Magiſtrats of the other Burghs above-mentioned, at the Mercat-Croſſes of their ſaid Burghs, upon their receiving the ſame. Extracted by me,</p>
+            <closer>
+               <signed>
+                  <hi>GILB. ELIOT,</hi> Cls. Sti. Cencilii.</signed>
+               <lb/>
+God Save King William and Queen Mary.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> By Order of His Majeſties Privy Council, <hi>Anno DOM.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
